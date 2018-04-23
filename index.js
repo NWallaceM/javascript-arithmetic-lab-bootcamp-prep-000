@@ -11,5 +11,6 @@ function divide(a, b) {
   return a/b
 }
 function inc(n) {
-  return  += 5
+  return  n += 1
 }
+function make
